@@ -50,6 +50,31 @@ print (dia == dia2);
 print (media != media2);
 print (media == media2);
   */
+  /*
+  
+   Map<String, String> frutas = {
+     "maça":"vermelha",
+     "banana": "amarela",
+     "melao" : "bramco"
+   };
+  
+    print(frutas);
+*/
+
+
+Map<String, dynamic> dados = {
+  "idade" : "16", 
+  "altura" : "1.78", 
+  "endereco" : "261",
+  "bichinho" : "boby"
+    
+    
+  
+  
+};
+  print(dados);
+}
+
   
   
   
